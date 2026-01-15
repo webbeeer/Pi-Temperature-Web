@@ -2,6 +2,8 @@
 
 This project uses a Raspberry Pi with a Sense HAT to monitor temperature and display the data on a self-refreshing web page. The system tracks changes between readings and provides visual feedback via the Sense HAT LED matrix.
 
+![Preview](screenshot.png)
+
 ## Features
 Temperature Monitoring: Retrieves temperature data directly from the Sense HAT's onboard sensors.
 
